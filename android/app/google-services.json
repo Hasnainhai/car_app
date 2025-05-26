@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295637404943",
+    "project_id": "flutterflow-auth-931d9",
+    "storage_bucket": "flutterflow-auth-931d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295637404943:android:f76229374b179ad195c27a",
+        "android_client_info": {
+          "package_name": "com.wowcar.wowcar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHVSBRIim2D_PDSCOl4XBmx4Ki10SH6tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
